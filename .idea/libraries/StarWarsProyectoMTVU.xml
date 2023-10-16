@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="StarWarsProyectoMTVU">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.serverless/StarWarsProyectoMTVU.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
